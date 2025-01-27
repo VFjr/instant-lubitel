@@ -7,6 +7,7 @@
 - [x] Design preliminary film back attachment mechanism
 
 - [ ] Test film release mechanism with real cartridge and find appropriate stepper motor settings. Initially with A4988 drivers and micropython.
+     - Tested with the stepper motors i planned to use. They were too weak, need to find some alternatives :(
 
 - [ ] Design complete film back, including light seals
 
