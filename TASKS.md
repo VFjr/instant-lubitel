@@ -10,7 +10,7 @@
 
 - [ ] Design complete film back, including light seals
 
-- [ ] Rust RP2040 code for stepper motor control. At this point, it should be able to take photos and develop film
+- [ ] Rust RP2040 code for stepper motor control. At this point, it should be able to take photos and develop film. Use TMC drivers, as well as integrate sensorless homing for the pushing mechanism
 
 - [ ] Figure out how to adjust focus to the film plane (there is about a 0.5mm difference between the old film back plane and the new one)
 
